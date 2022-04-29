@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-style: none;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
+
+.texto {
+    display: flex;
+    justify-content: space-between;
+    background: red;
+    height: 80px;
+    width: 300px;
+}
+
+.button {
+    margin-top: 30px;
+    margin-left: 10px;
+}
