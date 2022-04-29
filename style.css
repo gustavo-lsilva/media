@@ -14,11 +14,10 @@ body {
     display: flex;
     justify-content: space-between;
     background: red;
-    height: 80px;
+    height: 20px;
     width: 300px;
 }
 
 .button {
-    margin-top: 30px;
     margin-left: 50px;
 }
